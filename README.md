@@ -137,13 +137,17 @@ Modelo	                           ROC-AUC       /     	PR-AUC
 
 🔍 Insight principal
 
-XGBoost obtuvo el mejor desempeño
-Aún hay margen de mejora en la capacidad predictiva.
+- XGBoost obtuvo el mejor desempeño
+- Aún hay margen de mejora en la capacidad predictiva.
 
 
-La definición del target es crítica en problemas de churn
-Evitar data leakage es fundamental
-El recall es más importante que la accuracy en este tipo de problemas
-El contexto de negocio debe guiar la evaluación del modelo
+- La definición del target es crítica en problemas de churn.
+- Evitar data leakage es fundamental.
+- El recall es más importante que la accuracy en este tipo de problemas.
+- El contexto de negocio debe guiar la evaluación del modelo.
 
 
+
+Enfoque implementado:
+
+<img width="810" height="475" alt="image" src="https://github.com/user-attachments/assets/99e552e1-2b47-4843-951f-a3ecdfc0d5e2" />
